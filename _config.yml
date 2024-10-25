@@ -2,11 +2,11 @@ title: SVUIT-MMTT
 description: A study vault of UIT
 theme: just-the-docs
 
-url: "https://svuit.github.io/dsc2024"
+url: https://svuit.org/dsc2024
 
 
 aux_links:
-  Đóng góp cho website: https://svuit.org/mmtt/docs/contribute
+  Đóng góp cho website: https://svuit.org/dsc2024/docs/contribute
 
 callouts_level: quiet # or loud
 callouts:
